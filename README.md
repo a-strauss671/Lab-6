@@ -1,2 +1,3 @@
 # Lab-6
- This is the github repository for lab 6. A partner and I created a small script and used Git to push changes to it from both of our local machines.
+ Ayva Strauss and Samantha Martins
+ This programs takes a name input, and some other input, and then prints out the name input and the other input. 
